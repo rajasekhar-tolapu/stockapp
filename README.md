@@ -103,11 +103,11 @@ Unit tests focus on:
 
 ## Demo Video
 
-[Watch Demo](Assets/demo.mp4)
+[Watch Demo Video](https://drive.google.com/file/d/1mkEjza68H-aLvx-x7KON71QAJHqUi9bT/view?usp=sharing)
 
 ---
 
 ## Architecture Diagram
 
-![Architecture](Assets/Screenshots/Achitecture.png)
+![Architecture](Assets/Achitecture.png)
 
